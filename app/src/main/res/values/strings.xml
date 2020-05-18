@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">FinalExam801129943</string>
+    <string name="test_title">Title</string>
+    <string name="test_location">Location</string>
+    <string name="test_date">Date</string>
+    <string name="test_time">Time</string>
+    <string name = "AIzaSyBQZbW99md8SGz4xnKhgVbXh18MPP4gREA">abc</string>
+</resources>
